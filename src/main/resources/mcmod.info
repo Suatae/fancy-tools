@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FancyTools",
+  "name": "Fancy Tools",
+  "description": "Tools made 3D.",
+  "version": "1.7.10-1.00A",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Suatae/fancy-tools",
+  "updateUrl": "",
+  "authorList": ["Suatae"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
